@@ -14,11 +14,8 @@ size_categories:
 dataset_info:
   features:
     - name: cards
-      dtype: csv
     - name: sets
-      dtype: csv
     - name: decks
-      dtype: csv
 ---
 
 # Dataset Card for Pokemon Cards TCG
