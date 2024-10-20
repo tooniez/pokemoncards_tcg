@@ -1,9 +1,24 @@
+---
+license: mit
+task_categories:
+- image-classification
+- image-segmentation
+- sentence-similarity
+- image-to-text
+- image-feature-extraction
+language:
+- en
+pretty_name: Pokemon Cards TCG Dataset
+size_categories:
+- 10M<n<100M
+---
+
 # Dataset Card for Pokemon Cards TCG
 
 ## Dataset Description
 
 - **Repository:** [tooniez/pokemoncards_tcg](https://huggingface.co/datasets/tooniez/pokemoncards_tcg)
-- **Point of Contact:** [Your contact information or GitHub profile]
+- **Point of Contact:** [@tooniez](https://github.com/tooniez)
 
 ### Dataset Summary
 
@@ -15,6 +30,10 @@ This dataset contains information about Pokemon Trading Card Game (TCG) cards, d
   - Image Classification
   - Text Classification
   - Information Retrieval
+  - Image-to-Text
+  - Image Feature Extraction
+  - Image Segmentation
+  - Image Classification
 
 ### Languages
 
@@ -54,8 +73,7 @@ The dataset consists of three main components:
   - national_pokedex_numbers: Pokedex numbers for the Pokemon
   - legalities: Legal status in different game formats
   - images: URLs to card images
-  <!-- - tcgplayer: Price information from TCGPlayer
-  - cardmarket: Price information from Cardmarket -->
+
 
 - Decks:
   - id: Unique identifier for the deck
@@ -110,19 +128,6 @@ This dataset does not contain personal or sensitive information.
 
 This dataset can contribute to the Pokemon TCG community by enabling research and tool development for card analysis and deck building.
 
-### Discussion of Biases
-
-[Discuss any potential biases in the dataset, if applicable]
-
-### Other Known Limitations
-
-[Mention any known limitations of the dataset]
-
-## Additional Information
-
-### Dataset Curators
-
-[Information about the dataset curators]
 
 ### Licensing Information
 
@@ -131,7 +136,3 @@ This dataset can contribute to the Pokemon TCG community by enabling research an
 ### Citation Information
 
 [If there's a specific way to cite this dataset, include it here]
-
-### Contributions
-
-[Information about how to contribute to the dataset, if applicable]
