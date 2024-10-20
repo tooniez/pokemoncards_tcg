@@ -17,7 +17,7 @@ size_categories:
 
 ## Dataset Description
 
-- **Repository:** [tooni/pokemoncards](https://github.com/tooniez/pokemoncards_tcg.git)
+- **Repository:** [tooniez/pokemoncards_tcg](https://github.com/tooniez/pokemoncards_tcg.git)
 - **Point of Contact:** [@tooniez](https://github.com/tooniez)
 
 ### Dataset Summary
