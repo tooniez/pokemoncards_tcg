@@ -17,7 +17,7 @@ size_categories:
 
 ## Dataset Description
 
-- **Repository:** [tooniez/pokemoncards_tcg](https://huggingface.co/datasets/tooniez/pokemoncards_tcg)
+- **Repository:** [tooni/pokemoncards](https://github.com/tooniez/pokemoncards_tcg.git)
 - **Point of Contact:** [@tooniez](https://github.com/tooniez)
 
 ### Dataset Summary
