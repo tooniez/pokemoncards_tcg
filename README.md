@@ -11,11 +11,6 @@ language:
 pretty_name: Pokemon Cards TCG Dataset
 size_categories:
 - 10M<n<100M
-dataset_info:
-  features:
-    - name: cards
-    - name: sets
-    - name: decks
 ---
 
 # Dataset Card for Pokemon Cards TCG
